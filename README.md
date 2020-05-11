@@ -4,7 +4,7 @@ Today I Learned
 
 ### May 2020
 
-- Organize Laravel Dev with Docker : https://github.com/nvdhunter/laravel_docker
+- Organize Laravel Dev with Docker : https://github.com/nvdhunter/laravel-docker
 - Levels of Seniority of a software Developers : https://roadmap.sh/guides/levels-of-seniority
 - Ultimate Guide on Deploying Laravel Projects : https://laraveldaily.com/how-to-deploy-laravel-projects-to-live-server-the-ultimate-guide/
 - Hateoas API's : https://medium.com/api-university/rest-apis-with-hateoas-50e001e69903
